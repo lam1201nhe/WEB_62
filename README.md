@@ -3,4 +3,5 @@
 Getting started
 =
 
+### Hoi cham
 CLT: command line interface - tham sô dong lenh
